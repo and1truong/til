@@ -1,3 +1,7 @@
+nav[role="navigation"] > .center {
+  max-width: 48rem;
+}
+
 .nested-copy-line-height table {
   width: 100%;
   border-collapse: collapse;

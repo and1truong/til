@@ -1,6 +1,6 @@
 baseURL = 'https://til.toila.net/'
 locale = 'en-us'
-title = 'TIL -- Today I Learnt'
+title = 'TIL — Today I Learnt'
 theme = 'ananke'
 
 [params]

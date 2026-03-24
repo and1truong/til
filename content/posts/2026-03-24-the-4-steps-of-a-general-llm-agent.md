@@ -1,9 +1,9 @@
-+++
-date = '2026-03-24T23:30:00+10:00'
-draft = false
-title = 'The 4 Steps of a General LLM Agent'
-tags = ['llm', 'agents', 'ai']
-+++
+---
+date: '2026-03-24T23:30:00+10:00'
+draft: false
+title: 'The 4 Steps of a General LLM Agent'
+tags: ['llm', 'agents', 'ai']
+---
 
 ## Introduction
 
