@@ -1,0 +1,26 @@
+baseURL = 'https://til.toila.net/'
+locale = 'en-us'
+title = 'TIL -- Today I Learnt'
+theme = 'ananke'
+
+[params]
+  description = 'Short notes on things I learn every day.'
+  site_logo = ''
+  background_color_class = 'bg-dark-gray'
+  recent_posts_number = 20
+  custom_css = ['css/custom.css']
+
+[taxonomies]
+  tag = 'tags'
+  category = 'categories'
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      [markup.goldmark.extensions.typographer]
+        disable = true
+  [markup.highlight]
+    style = 'monokai'
+
+[pagination]
+  pagerSize = 20

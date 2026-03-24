@@ -1,0 +1,3 @@
+[submodule "/Users/htruong/Sites/til.toila.net/themes/ananke"]
+	path = /Users/htruong/Sites/til.toila.net/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git

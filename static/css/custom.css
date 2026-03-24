@@ -1,0 +1,21 @@
+.nested-copy-line-height table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5rem 0;
+}
+
+.nested-copy-line-height th,
+.nested-copy-line-height td {
+  border: 1px solid rgba(255, 255, 255, 0.2);
+  padding: 0.5rem 0.75rem;
+  text-align: left;
+}
+
+.nested-copy-line-height th {
+  background-color: rgba(255, 255, 255, 0.1);
+  font-weight: 700;
+}
+
+.nested-copy-line-height tr:nth-child(even) {
+  background-color: rgba(255, 255, 255, 0.05);
+}
